@@ -13,7 +13,7 @@ int test(int a, int b)
     return 1;
 }
 
-int main(int argc, char **argv)
+int main()
 {
     int pass = 1;
 

@@ -2,7 +2,7 @@
 
 #include "numberwords.h"
 
-int main(int argc, char **argv)
+int main()
 {
     printf("1+2 = %d\n", ONE + TWO);
     printf("2¹⁵ = %d\n", THIRTY_TWO_THOUSAND_SEVEN_HUNDRED_SIXTY_EIGHT);
