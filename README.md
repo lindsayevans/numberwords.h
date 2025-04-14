@@ -1,4 +1,4 @@
-# numberwords
+# numberwords.h
 
 This is a bad idea & I should feel bad
 
