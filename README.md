@@ -4,6 +4,8 @@ This is a bad idea & I should feel bad
 
 ## Usage
 
+[`example.c`](example.c)
+
 ```c
 #include <stdio.h>
 
@@ -16,6 +18,10 @@ int main(int argc, char **argv)
 
     return ZERO;
 }
+```
+
+```sh
+gcc -o example example.c && ./example
 ```
 
 ## Testing
